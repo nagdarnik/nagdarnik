@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Дарья Нагурная — Data, Product, BI</title><desc id="desc">Аналитическое портфолио в тёмно-синем и мятном цветах</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101e35"/><stop offset="1" stop-color="#17394a"/></linearGradient><linearGradient id="line"><stop stop-color="#54c8ba"/><stop offset="1" stop-color="#b0f2ce"/></linearGradient></defs>
+<rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+<g stroke="#fff" stroke-opacity=".055"><path d="M740 40v200M800 40v200M860 40v200M920 40v200M980 40v200M1040 40v200M1100 40v200M720 80h420M720 130h420M720 180h420M720 230h420"/></g>
+<text x="52" y="61" fill="#80decd" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">ANALYTICS PORTFOLIO</text>
+<text x="52" y="126" fill="#f3f8ff" font-family="Arial,sans-serif" font-size="43" font-weight="700">Дарья Нагурная</text>
+<text x="54" y="171" fill="#c3d5e3" font-family="Arial,sans-serif" font-size="23">Data / Product / BI</text>
+<rect x="54" y="203" width="50" height="3" rx="1.5" fill="#80decd"/>
+<text x="54" y="242" fill="#92b2c1" font-family="Arial,sans-serif" font-size="16">SQL · Python · Power BI · ETL</text>
+<g fill="#6dd6c3" opacity=".13"><rect x="752" y="171" width="33" height="59" rx="4"/><rect x="817" y="147" width="33" height="83" rx="4"/><rect x="882" y="156" width="33" height="74" rx="4"/><rect x="947" y="106" width="33" height="124" rx="4"/><rect x="1012" y="88" width="33" height="142" rx="4"/><rect x="1077" y="54" width="33" height="176" rx="4"/></g>
+<path d="M768 170L833 146L898 155L963 105L1028 87L1093 53" fill="none" stroke="url(#line)" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<g fill="#a5edcf" stroke="#17394a" stroke-width="3"><circle cx="768" cy="170" r="6"/><circle cx="833" cy="146" r="6"/><circle cx="898" cy="155" r="6"/><circle cx="963" cy="105" r="6"/><circle cx="1028" cy="87" r="6"/><circle cx="1093" cy="53" r="6"/></g>
+</svg>
